@@ -72,6 +72,8 @@ Script de calculadora interactiva que permite realizar operaciones aritméticas 
 * **Prevención de fallos:** Incluye un control básico para divisiones. Si el usuario ingresa un cero como divisor, el programa lanza un aviso en lugar de romperse.
 * **Interfaz secuencial:** Las preguntas aparecen una tras otra (operación, primer número, segundo número) para evitar confusiones en la entrada de datos.
 * **Ciclo de refresco:** El script limpia la pantalla y se reinicia cada 30 segundos.
+
+### Capturas de funcionamiento
 <img width="386" height="163" alt="image" src="https://github.com/user-attachments/assets/3c6a2d1e-0259-4b71-835d-f47e9fe4a9f3" />
 
 ## **gestor.sh**
@@ -84,6 +86,24 @@ Este script es un sistema de gestión de archivos y directorios que opera median
 * **Validaciones de Sistema:** Implementa comprobaciones de existencia de archivos (`-f`) y directorios (`-d`) antes de ejecutar acciones de borrado o lectura.
 * **Busqueda Optimizada:** Utiliza el comando `find` redirigiendo errores de sistema a `/dev/null` para una experiencia de usuario limpia.
 * **Ciclo de Ejecución:** El menú se despliega automáticamente cada 10 minutos mediante el uso del comando `sleep 600`.
+
+### Capturas de funcionamiento
+* **Inicializacion de script**
+<img width="590" height="336" alt="image" src="https://github.com/user-attachments/assets/50c2c039-160a-4ee2-b316-f3426edf3837" />
+<img width="655" height="370" alt="image" src="https://github.com/user-attachments/assets/885121ba-6f0a-4218-9697-d31861cd91d5" />
+1. **Creacion de directorio**
+<img width="518" height="183" alt="image" src="https://github.com/user-attachments/assets/22c9ffd5-f3b6-408d-b474-536f10b4ef21" />
+2. **Crear un Archivo**
+<img width="599" height="384" alt="image" src="https://github.com/user-attachments/assets/009aba91-a171-4f5d-9b30-94cbcca12b39" />
+<img width="477" height="122" alt="image" src="https://github.com/user-attachments/assets/da0866f4-3feb-4595-ad0d-5c990e412e53" />
+
+4. **Borrar un Archivo**
+5. **Listar un Directorio**
+6. **Buscar un archivo**
+7. **Limpiar Pantalla**
+8. **Salir**
+
+
 
 
 
