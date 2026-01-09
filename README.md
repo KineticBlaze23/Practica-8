@@ -99,9 +99,13 @@ Este script es un sistema de gestión de archivos y directorios que opera median
 * **Inicializacion de script**
 <img width="590" height="336" alt="image" src="https://github.com/user-attachments/assets/50c2c039-160a-4ee2-b316-f3426edf3837" />
 <img width="655" height="370" alt="image" src="https://github.com/user-attachments/assets/885121ba-6f0a-4218-9697-d31861cd91d5" />
+
 1. **Creacion de directorio**
+
 <img width="518" height="183" alt="image" src="https://github.com/user-attachments/assets/22c9ffd5-f3b6-408d-b474-536f10b4ef21" />
+
 2. **Crear un Archivo**
+
 <img width="599" height="384" alt="image" src="https://github.com/user-attachments/assets/009aba91-a171-4f5d-9b30-94cbcca12b39" />
 <img width="477" height="122" alt="image" src="https://github.com/user-attachments/assets/da0866f4-3feb-4595-ad0d-5c990e412e53" />
 
