@@ -97,8 +97,13 @@ Este script es un sistema de gestión de archivos y directorios que opera median
 <img width="599" height="384" alt="image" src="https://github.com/user-attachments/assets/009aba91-a171-4f5d-9b30-94cbcca12b39" />
 <img width="477" height="122" alt="image" src="https://github.com/user-attachments/assets/da0866f4-3feb-4595-ad0d-5c990e412e53" />
 
-4. **Borrar un Archivo**
-5. **Listar un Directorio**
+3. **Borrar un Archivo**
+<img width="536" height="403" alt="image" src="https://github.com/user-attachments/assets/b677cef6-1788-4a7b-89b2-ca5309c5d9be" />
+<img width="505" height="143" alt="image" src="https://github.com/user-attachments/assets/2dfcd340-81ef-415f-aad6-c7d9c77b9aad" />
+
+4. **Listar un Directorio**
+<img width="514" height="419" alt="image" src="https://github.com/user-attachments/assets/ab1b6133-bf55-4217-b5bd-2f614bde96f7" />
+
 6. **Buscar un archivo**
 7. **Limpiar Pantalla**
 8. **Salir**
