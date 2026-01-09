@@ -1,4 +1,13 @@
 # **Practica-8**
+## **Integrantes**
+* Darwin Cadena
+* Frank Quinatoa
+* Fabio Pillajo
+* Martín Roca
+* Carolay Pillajo
+* Ariel Burgos
+* Steven Moreta
+
 ## **Capturas de codigos resueltos en clase**
 
 * **script1.sh**
