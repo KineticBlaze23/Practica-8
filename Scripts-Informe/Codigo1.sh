@@ -14,13 +14,13 @@ while true; do
     read -p "Elige una opción (piedra, papel, tijera) o 'salir': " usuario
     usuario=$(echo "$usuario" | tr '[:upper:]' '[:lower:]') # Convertir a minúsculas
 
-    # Salida voluntaria
+    # Condicion de salida
     if [[ "$usuario" == "salir" ]]; then
         echo "Saliendo del juego..."
         break
     fi
 
-    # Validar entrada
+    # Validacion de entradas del usuario
     if [[ ! " ${opciones[@]} " =~ " ${usuario} " ]]; then
         echo "Error: Opción no válida. Inténtalo de nuevo."
         sleep 2
